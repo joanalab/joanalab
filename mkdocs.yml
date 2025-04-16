@@ -1,8 +1,16 @@
 site_name: Site do Joanalab
 site_url: https://joanalab.github.io
-site_dir: /tmp/joanalab.github.io
+site_dir: ../joanalab.github.io
 
 theme:
   name: material
   language: pt
+
+nav:
+  - Home: index.md
+  - Sobre: sobre.md
+  # - Projetos:
+  #     - Projeto 1: projeto1.md
+  #     - Projeto 2: projeto2.md
+  - Contato: contato.md
 
