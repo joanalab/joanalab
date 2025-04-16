@@ -1,0 +1,8 @@
+site_name: Site do Joanalab
+site_url: https://joanalab.github.io
+site_dir: /tmp/joanalab.github.io
+
+theme:
+  name: material
+  language: pt
+
